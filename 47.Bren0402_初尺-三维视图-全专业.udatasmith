@@ -1,0 +1,1085 @@
+<DatasmithUnrealScene>
+	<Version>0.24</Version>
+	<SDKVersion>5.2.1</SDKVersion>
+	<Host>Revit</Host>
+	<Application Vendor="Autodesk Inc." ProductName="Revit" ProductVersion="2022"/>
+	<ResourcePath>C:/Users/KKK/AppData/Local/Nancy/席晓燕_6022/测试_1_1_1_test_PJ20231000000001/Bren0402_初尺/revit</ResourcePath>
+	<User ID="587e334b4609bb192315c48bbe8e6778" OS="Windows 11 (23H2) [10.0.22631.3296]"/>
+	<StaticMesh name="4eac53e9ab1f34598295c65a436fd869" label="墙_基本墙_A_非承重墙_240">
+		<file path="Bren0402_初尺-三维视图-全专业_Assets/4eac53e9ab1f34598295c65a436fd869.udsmesh"/>
+		<Size a="604240.0" x="940.0" y="24.000004" z="290.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a5c11ca874d01ef11d5f7d6651fc4743"/>
+		<Material id="0" name="4ebdcfb4dd464dc330b9e14a189244ba"/>
+	</StaticMesh>
+	<StaticMesh name="485d25e7463dc81e1b7c7e7015ce827a" label="墙_基本墙_A_非承重墙_240">
+		<file path="Bren0402_初尺-三维视图-全专业_Assets/485d25e7463dc81e1b7c7e7015ce827a.udsmesh"/>
+		<Size a="440960.0" x="680.0" y="23.999989" z="290.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="934bdc5ad999776236663370217f1327"/>
+		<Material id="0" name="4ebdcfb4dd464dc330b9e14a189244ba"/>
+	</StaticMesh>
+	<StaticMesh name="a47d3de1b851fee497304d767a7c89e8" label="墙_基本墙_A_非承重墙_240">
+		<file path="Bren0402_初尺-三维视图-全专业_Assets/a47d3de1b851fee497304d767a7c89e8.udsmesh"/>
+		<Size a="567760.0" x="940.0" y="23.999989" z="290.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="918dae5de13b601c614c55979d94fa48"/>
+		<Material id="0" name="4ebdcfb4dd464dc330b9e14a189244ba"/>
+	</StaticMesh>
+	<StaticMesh name="3c93bd291e685fb9ce77851514b84ff8" label="墙_基本墙_A_非承重墙_240">
+		<file path="Bren0402_初尺-三维视图-全专业_Assets/3c93bd291e685fb9ce77851514b84ff8.udsmesh"/>
+		<Size a="440960.0" x="680.0" y="24.000004" z="290.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6ace50a4228e019cbe7aeda5a3a40c67"/>
+		<Material id="0" name="4ebdcfb4dd464dc330b9e14a189244ba"/>
+	</StaticMesh>
+	<StaticMesh name="2bd07090f9da1981f81c09d7b2e1a249" label="楼板_楼板_A_结构楼板">
+		<file path="Bren0402_初尺-三维视图-全专业_Assets/2bd07090f9da1981f81c09d7b2e1a249.udsmesh"/>
+		<Size a="1390672.0" x="964.0" y="704.0" z="10.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f45cc0cfdac613b93bb9947092ea3146"/>
+		<Material id="0" name="ad02be2b7816034f4823e173521556f7"/>
+	</StaticMesh>
+	<StaticMesh name="1ec0a628fa310a5f0deb1af0647a0be3" label="楼板_楼板_A_结构楼板">
+		<file path="Bren0402_初尺-三维视图-全专业_Assets/1ec0a628fa310a5f0deb1af0647a0be3.udsmesh"/>
+		<Size a="1390672.0" x="964.0" y="704.0" z="10.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f1e7960fa4a943ebf7b1b160cc373c80"/>
+		<Material id="0" name="ad02be2b7816034f4823e173521556f7"/>
+	</StaticMesh>
+	<StaticMesh name="ac5659417d1794e818f5d1d3384ee2a8" label="楼板_楼板_IN_地面_瓷砖">
+		<file path="Bren0402_初尺-三维视图-全专业_Assets/ac5659417d1794e818f5d1d3384ee2a8.udsmesh"/>
+		<Size a="1233232.0" x="916.0" y="656.0" z="10.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b3ee8bb0a859c9e588d4f5d5f6316d93"/>
+		<Material id="0" name="5dab78cda081f4b99b4aa26ff8569338"/>
+	</StaticMesh>
+	<StaticMesh name="f8f54b69f6842c6887c279b8a0434045" label="天花板_复合天花板_IN_平顶_涂料">
+		<file path="Bren0402_初尺-三维视图-全专业_Assets/f8f54b69f6842c6887c279b8a0434045.udsmesh"/>
+		<Size a="1208080.0" x="916.0" y="656.0" z="1.999994"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eeb995c5c3634b5716e6c6150e0af07d"/>
+		<Material id="0" name="37dc8e0d43996a7d8cec2847aeb1a821"/>
+	</StaticMesh>
+	<StaticMesh name="948df1873a53e47a3ad71aeeebc6eead" label="墙_基本墙_IN_墙面_瓷砖">
+		<file path="Bren0402_初尺-三维视图-全专业_Assets/948df1873a53e47a3ad71aeeebc6eead.udsmesh"/>
+		<Size a="435124.0" x="916.0" y="2.000009" z="235.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ccde947d0ce609bd267557c7dbeb31cb"/>
+		<Material id="0" name="5dab78cda081f4b99b4aa26ff8569338"/>
+	</StaticMesh>
+	<StaticMesh name="2edf91f31ff4b52d1c7296317d521f4c" label="墙_基本墙_IN_墙面_瓷砖">
+		<file path="Bren0402_初尺-三维视图-全专业_Assets/2edf91f31ff4b52d1c7296317d521f4c.udsmesh"/>
+		<Size a="310936.0" x="654.0" y="1.999994" z="235.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b9fbe76b21f5a3ef24b699577884b7e7"/>
+		<Material id="0" name="5dab78cda081f4b99b4aa26ff8569338"/>
+	</StaticMesh>
+	<StaticMesh name="f533ce30f2d8089e10c36f06f665c6ff" label="墙_基本墙_IN_墙面_瓷砖">
+		<file path="Bren0402_初尺-三维视图-全专业_Assets/f533ce30f2d8089e10c36f06f665c6ff.udsmesh"/>
+		<Size a="382736.0" x="914.0" y="1.999994" z="235.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a1c132fff2a47a929add902219403412"/>
+		<Material id="0" name="5dab78cda081f4b99b4aa26ff8569338"/>
+	</StaticMesh>
+	<StaticMesh name="17f30ae602b7d9bd51de4b0d31526898" label="墙_基本墙_IN_墙面_瓷砖">
+		<file path="Bren0402_初尺-三维视图-全专业_Assets/17f30ae602b7d9bd51de4b0d31526898.udsmesh"/>
+		<Size a="309987.96875" x="651.999939" y="1.999994" z="235.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e3ed0a913c531844c9be33176bed6f2"/>
+		<Material id="0" name="5dab78cda081f4b99b4aa26ff8569338"/>
+	</StaticMesh>
+	<StaticMesh name="aeb83729188b82754b875288442ac1b4" label="窗_A_双扇平开窗_2200x1200x800x80">
+		<file path="Bren0402_初尺-三维视图-全专业_Assets/aeb83729188b82754b875288442ac1b4.udsmesh"/>
+		<Size a="71222.046875" x="220.0" y="12.900001" z="120.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="63409e9ce31120d2319bc1a7984e722c"/>
+		<Material id="0" name="897da0d01060b1970c05937d84997f80"/>
+		<Material id="1" name="bde3e71b1c92d687ccc44f00b5dc6c62"/>
+		<Material id="2" name="6941001da4d58b71b7810bd1c041e0ea"/>
+	</StaticMesh>
+	<StaticMesh name="f326adc8c894f999437f0a5899bce403" label="橱柜_IN_木作_万能衣柜_万能衣柜">
+		<file path="Bren0402_初尺-三维视图-全专业_Assets/f326adc8c894f999437f0a5899bce403.udsmesh"/>
+		<Size a="102593.742188" x="40.0" y="57.600002" z="225.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cfe3b349552f1e7d16b2bfeaf0ed2ded"/>
+		<Material id="0" name="edb194b51675bb45d2bd0290de011e88"/>
+	</StaticMesh>
+	<StaticMesh name="3a699278bd1b5226b04edc3569c2c071" label="橱柜_IN_木作_门板_右开门_铣型扣手_铣型扣手右开门">
+		<file path="Bren0402_初尺-三维视图-全专业_Assets/3a699278bd1b5226b04edc3569c2c071.udsmesh"/>
+		<Size a="18917.328125" x="39.700001" y="2.519485" z="222.300003"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e26ab819be556e6873b6b8b51d77a0d9"/>
+		<Material id="0" name="d5b0ac4c00637c62736b0244129d5348"/>
+		<Material id="1" name="7bd2ea606d801b282e8c30d9f59ffd13"/>
+	</StaticMesh>
+	<StaticMesh name="0e6eb47e03197aa3a729abdd77484164" label="橱柜_IN_木作_斗铰面_斗铰面">
+		<file path="Bren0402_初尺-三维视图-全专业_Assets/0e6eb47e03197aa3a729abdd77484164.udsmesh"/>
+		<Size a="147.809189" x="1.799059" y="7.428258" z="5.3"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ccfbff2e70082457d702912e306e4d0d"/>
+		<Material id="0" name="7bd2ea606d801b282e8c30d9f59ffd13"/>
+	</StaticMesh>
+	<StaticMesh name="654f76714639dfd7f761b31c924b7cea" label="线管_带配件的线管_MEP_PVC线管_红__DN20">
+		<file path="Bren0402_初尺-三维视图-全专业_Assets/654f76714639dfd7f761b31c924b7cea.udsmesh"/>
+		<Size a="4768.883301" x="270.000061" y="5.580066" z="5.580009"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ace51b232acb4f413425cc96cda72b8a"/>
+		<Material id="0" name="74d6cacb9641b43e961979b661d30677"/>
+	</StaticMesh>
+	<StaticMesh name="b1c3cb2835baa60a048631ce89578d26" label="线管_带配件的线管_MEP_PVC线管_红__DN20">
+		<file path="Bren0402_初尺-三维视图-全专业_Assets/b1c3cb2835baa60a048631ce89578d26.udsmesh"/>
+		<Size a="2625.445312" x="147.403122" y="5.580022" z="5.580009"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a043e4e56c170be4b9a89bacbbc2f21a"/>
+		<Material id="0" name="74d6cacb9641b43e961979b661d30677"/>
+	</StaticMesh>
+	<StaticMesh name="602710b012d6f6bce59dc1ad63443bd4" label="电缆桥架_带配件的电缆桥架_MEP_冷媒桥架_100_50">
+		<file path="Bren0402_初尺-三维视图-全专业_Assets/602710b012d6f6bce59dc1ad63443bd4.udsmesh"/>
+		<Size a="24898.115234" x="250.0" y="30.000002" z="9.99997"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="80a9e942334337194c013a58a60d4e4e"/>
+		<Material id="0" name="74d6cacb9641b43e961979b661d30677"/>
+	</StaticMesh>
+	<Camera name="a32eff71d6dc3f8dd917150bd87965a1" label="全专业" layer="视图">
+		<Transform tx="-2036.665421" ty="-56.651912" tz="873.803628" sx="1.0" sy="1.0" sz="1.0" qx="0.22524" qy="0.221067" qz="-0.677213" qw="0.664664" qhex64="015BDEF5ADD4CC3F0E9B9289EA4BCC3FB5EDE9B3BAABE5BF7FEF962BEE44E53F"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.047436"/>
+		<DepthOfField enabled="0"/>
+		<FocusDistance value="30480.0"/>
+		<FStop value="5.6"/>
+		<FocalLength value="35.0"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+	</Camera>
+	<Actor name="8b0180029f5acae314af622c5173c06b" label="Site_Location" layer="位置数据">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Revit.Element.Id.21747" />
+		<tag value="Revit.Element.UniqueId.925046e6-d8f7-4064-bf7b-35b3257e1d76-000054f3" />
+		<tag value="Revit.Element.SiteLocation" />
+	</Actor>
+	<Actor name="cf6152e30339765264d57a9477a60201" label="Survey_Point" layer="测量点">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Revit.Element.Id.96302" />
+		<tag value="Revit.Element.UniqueId.932c53f7-e21f-442d-91c5-dde3052a819c-0001782e" />
+		<tag value="Revit.Element.SurveyPoint" />
+	</Actor>
+	<Actor name="794fdf7ea22e73af20feb0e3aecdc010" label="Base_Point" layer="项目基点">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Revit.Element.Id.96305" />
+		<tag value="Revit.Element.UniqueId.932c53f7-e21f-442d-91c5-dde3052a819c-00017831" />
+		<tag value="Revit.Element.BasePoint" />
+	</Actor>
+	<Actor name="c9bae0414683138528e01e695398e7f0" label="标高_LH_标高标头_正负零_精装_F1完成面" layer="标高">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Revit.Element.Id.729273" />
+		<tag value="Revit.Element.UniqueId.8599c01f-340f-4cc9-99c4-a9490f42e57f-000b20b9" />
+		<tag value="IsElement" />
+		<children visible="true">
+			<ActorMesh name="ee1207258332027100aff9380cab7e46" label="楼板_楼板_IN_地面_瓷砖" layer="楼板">
+				<mesh name="ac5659417d1794e818f5d1d3384ee2a8"/>
+				<Transform tx="-743.82917" ty="502.554784" tz="-10.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Revit.Element.Id.14741419" />
+				<tag value="Revit.Element.UniqueId.dea0caa0-e56e-4085-b13b-3a3df27e19c6-00e0efab" />
+				<tag value="IsElement" />
+			</ActorMesh>
+			<ActorMesh name="f9877d16dd33ba22bfa11a0a4e26be55" label="天花板_复合天花板_IN_平顶_涂料" layer="天花板">
+				<mesh name="f8f54b69f6842c6887c279b8a0434045"/>
+				<Transform tx="-743.82917" ty="502.554784" tz="234.999996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Revit.Element.Id.14741450" />
+				<tag value="Revit.Element.UniqueId.dea0caa0-e56e-4085-b13b-3a3df27e19c6-00e0efca" />
+				<tag value="IsElement" />
+			</ActorMesh>
+			<ActorMesh name="9c8ae493e33b192eff846e28112be02d" label="墙_基本墙_IN_墙面_瓷砖" layer="墙">
+				<mesh name="948df1873a53e47a3ad71aeeebc6eead"/>
+				<Transform tx="171.170816" ty="-152.445206" tz="-0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="0.0" qhex64="00000000000000800000000000000000FFFFFFFFFFFFEFBF075C143326A6A13C"/>
+				<tag value="Revit.Element.Id.14741459" />
+				<tag value="Revit.Element.UniqueId.dea0caa0-e56e-4085-b13b-3a3df27e19c6-00e0efd3" />
+				<tag value="IsElement" />
+			</ActorMesh>
+			<ActorMesh name="f1b2524b7e46ce07a5e8291558bbc1d9" label="墙_基本墙_IN_墙面_瓷砖" layer="墙">
+				<mesh name="2edf91f31ff4b52d1c7296317d521f4c"/>
+				<Transform tx="-742.82917" ty="-152.445206" tz="-0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.707107" qw="0.707107" qhex64="00000000000000000000000000000000CD3B7F669EA0E63FCE3B7F669EA0E63F"/>
+				<tag value="Revit.Element.Id.14741460" />
+				<tag value="Revit.Element.UniqueId.dea0caa0-e56e-4085-b13b-3a3df27e19c6-00e0efd4" />
+				<tag value="IsElement" />
+			</ActorMesh>
+			<ActorMesh name="9ab183f4b33d02f19b19b870277ff377" label="墙_基本墙_IN_墙面_瓷砖" layer="墙">
+				<mesh name="f533ce30f2d8089e10c36f06f665c6ff"/>
+				<Transform tx="-742.82917" ty="501.554784" tz="-0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Revit.Element.Id.14741461" />
+				<tag value="Revit.Element.UniqueId.dea0caa0-e56e-4085-b13b-3a3df27e19c6-00e0efd5" />
+				<tag value="IsElement" />
+			</ActorMesh>
+			<ActorMesh name="92bd271705b80e2c5a0bd1b7f51d7b0d" label="墙_基本墙_IN_墙面_瓷砖" layer="墙">
+				<mesh name="17f30ae602b7d9bd51de4b0d31526898"/>
+				<Transform tx="171.170816" ty="501.554784" tz="-0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex64="00000000000000800000000000000000CD3B7F669EA0E6BFCE3B7F669EA0E63F"/>
+				<tag value="Revit.Element.Id.14741462" />
+				<tag value="Revit.Element.UniqueId.dea0caa0-e56e-4085-b13b-3a3df27e19c6-00e0efd6" />
+				<tag value="IsElement" />
+			</ActorMesh>
+			<ActorMesh name="ee30674cedde28b4553dac60cc5e9750" label="橱柜_IN_木作_万能衣柜_万能衣柜" layer="橱柜">
+				<mesh name="f326adc8c894f999437f0a5899bce403"/>
+				<Transform tx="-324.392898" ty="37.053512" tz="-0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Revit.Element.Id.15011039" />
+				<tag value="Revit.Element.UniqueId.90dddf4b-eeb7-407f-8c9b-454eac3e2777-00e50cdf" />
+				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
+				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
+				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
+				<children visible="true">
+					<ActorMesh name="975455dfcd0929d4e7416935181eb6f7" label="橱柜_IN_木作_门板_右开门_铣型扣手_铣型扣手右开门" layer="橱柜">
+						<mesh name="3a699278bd1b5226b04edc3569c2c071"/>
+						<Transform tx="-284.542898" ty="94.853511" tz="2.1" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+						<tag value="Revit.Element.Id.15011040" />
+						<tag value="Revit.Element.UniqueId.90dddf4b-eeb7-407f-8c9b-454eac3e2777-00e50ce0" />
+						<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
+						<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
+						<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
+						<children visible="true">
+							<ActorMesh name="ed4dd73afb1aab8dbb1f2fd19cf15a6c" label="橱柜_IN_木作_斗铰面_斗铰面" layer="橱柜">
+								<mesh name="0e6eb47e03197aa3a729abdd77484164"/>
+								<Transform tx="-290.992898" ty="94.187098" tz="14.1" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000F0000000000A03C000000000000F03F"/>
+								<tag value="Revit.Element.Id.15011041" />
+								<tag value="Revit.Element.UniqueId.90dddf4b-eeb7-407f-8c9b-454eac3e2777-00e50ce1" />
+								<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
+								<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
+								<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
+							</ActorMesh>
+							<ActorMesh name="7bf2f65731961d81e55456183457e0e8" label="橱柜_IN_木作_斗铰面_斗铰面" layer="橱柜">
+								<mesh name="0e6eb47e03197aa3a729abdd77484164"/>
+								<Transform tx="-290.992898" ty="94.187098" tz="212.399997" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000F0000000000A03C000000000000F03F"/>
+								<tag value="Revit.Element.Id.15011042" />
+								<tag value="Revit.Element.UniqueId.90dddf4b-eeb7-407f-8c9b-454eac3e2777-00e50ce2" />
+								<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
+								<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
+								<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
+							</ActorMesh>
+							<ActorMesh name="2e7126da428fa62cce0d7f9d95037e80" label="橱柜_IN_木作_斗铰面_斗铰面" layer="橱柜">
+								<mesh name="0e6eb47e03197aa3a729abdd77484164"/>
+								<Transform tx="-290.992898" ty="94.187098" tz="78.099999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000F0000000000A03C000000000000F03F"/>
+								<tag value="Revit.Element.Id.15011043" />
+								<tag value="Revit.Element.UniqueId.90dddf4b-eeb7-407f-8c9b-454eac3e2777-00e50ce3" />
+								<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
+								<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
+								<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
+							</ActorMesh>
+							<ActorMesh name="6a5ff22466ad287ecff1dd786c71f357" label="橱柜_IN_木作_斗铰面_斗铰面" layer="橱柜">
+								<mesh name="0e6eb47e03197aa3a729abdd77484164"/>
+								<Transform tx="-290.992898" ty="94.187098" tz="148.399998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000008000000000000000000F0000000000A03C000000000000F03F"/>
+								<tag value="Revit.Element.Id.15011044" />
+								<tag value="Revit.Element.UniqueId.90dddf4b-eeb7-407f-8c9b-454eac3e2777-00e50ce4" />
+								<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
+								<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
+								<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
+							</ActorMesh>
+						</children>
+					</ActorMesh>
+				</children>
+			</ActorMesh>
+		</children>
+	</Actor>
+	<ActorMesh name="097910edcdfa6c70eb67324850a45615" label="线管_带配件的线管_MEP_PVC线管_红__DN20" layer="线管">
+		<mesh name="654f76714639dfd7f761b31c924b7cea"/>
+		<Transform tx="-659.367032" ty="-639.033815" tz="149.999998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.882948" qw="-0.469472" qhex64="0000000000000080000000000000000008276D4F1B41ECBF73502474D20BDEBF"/>
+		<tag value="Revit.Element.Id.15011749" />
+		<tag value="Revit.Element.UniqueId.dda904bc-9217-4629-8b27-b7adada14da1-00e50fa5" />
+		<tag value="IsElement" />
+	</ActorMesh>
+	<ActorMesh name="056de4bbc08e669d28eb1b7274c7ab2a" label="线管_带配件的线管_MEP_PVC线管_红__DN20" layer="线管">
+		<mesh name="b1c3cb2835baa60a048631ce89578d26"/>
+		<Transform tx="-300.441472" ty="72.694953" tz="149.999998" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.94162" qw="-0.336676" qhex64="00000000000000800000000000000000C6915F35C121EEBFB7CE08BE1A8CD5BF"/>
+		<tag value="Revit.Element.Id.15011835" />
+		<tag value="Revit.Element.UniqueId.dda904bc-9217-4629-8b27-b7adada14da1-00e50ffb" />
+		<tag value="IsElement" />
+	</ActorMesh>
+	<ActorMesh name="721f66edc41e76c304694a806eb16b77" label="电缆桥架_带配件的电缆桥架_MEP_冷媒桥架_100_50" layer="电缆桥架">
+		<mesh name="602710b012d6f6bce59dc1ad63443bd4"/>
+		<Transform tx="-73.831423" ty="46.733161" tz="274.319996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.573576" qw="0.819152" qhex64="000000000000000000000000000000007F497CF8BC5AE23F428715597E36EA3F"/>
+		<tag value="Revit.Element.Id.15011848" />
+		<tag value="Revit.Element.UniqueId.dda904bc-9217-4629-8b27-b7adada14da1-00e51008" />
+		<tag value="IsElement" />
+	</ActorMesh>
+	<Actor name="19bb1e8fc4896300e8e74da5a466fbce" label="标高_LH_标高标头_正负零_精装_F1底板" layer="标高">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Revit.Element.Id.11669561" />
+		<tag value="Revit.Element.UniqueId.4f55a91f-7e82-421b-989b-ce0580bb1f81-00b21039" />
+		<tag value="IsElement" />
+		<children visible="true">
+			<ActorMesh name="617d1bdde276dc2ef614f4e462b47b2f" label="墙_基本墙_A_非承重墙_240" layer="墙">
+				<mesh name="4eac53e9ab1f34598295c65a436fd869"/>
+				<Transform tx="-755.82917" ty="-165.445206" tz="-10.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Revit.Element.Id.14545077" />
+				<tag value="Revit.Element.UniqueId.8113d174-f4cf-40bb-a413-7238788abc7b-00ddf0b5" />
+				<tag value="IsElement" />
+			</ActorMesh>
+			<ActorMesh name="797ae8efd53d9d76759149cb844d0ef7" label="墙_基本墙_A_非承重墙_240" layer="墙">
+				<mesh name="485d25e7463dc81e1b7c7e7015ce827a"/>
+				<Transform tx="-755.82917" ty="514.554783" tz="-10.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex64="00000000000000800000000000000000CD3B7F669EA0E6BFCE3B7F669EA0E63F"/>
+				<tag value="Revit.Element.Id.14545078" />
+				<tag value="Revit.Element.UniqueId.8113d174-f4cf-40bb-a413-7238788abc7b-00ddf0b6" />
+				<tag value="IsElement" />
+			</ActorMesh>
+			<ActorMesh name="0971045a36c7cc1ca690a6c882eff99a" label="墙_基本墙_A_非承重墙_240" layer="墙">
+				<mesh name="a47d3de1b851fee497304d767a7c89e8"/>
+				<Transform tx="184.170816" ty="514.554783" tz="-10.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="0.0" qhex64="00000000000000800000000000000000FFFFFFFFFFFFEFBF075C143326A6A13C"/>
+				<tag value="Revit.Element.Id.14545079" />
+				<tag value="Revit.Element.UniqueId.8113d174-f4cf-40bb-a413-7238788abc7b-00ddf0b7" />
+				<tag value="IsElement" />
+				<children visible="true">
+					<ActorMesh name="e06645beb51b14e402e996f68ca556f1" label="窗_A_双扇平开窗_2200x1200x800x80" layer="窗">
+						<mesh name="aeb83729188b82754b875288442ac1b4"/>
+						<Transform tx="34.170818" ty="514.554783" tz="59.999999" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-1.0" qw="0.0" qhex64="00000000000000800000000000000000FFFFFFFFFFFFEFBF075C143326A6A13C"/>
+						<tag value="Revit.Element.Id.14749468" />
+						<tag value="Revit.Element.UniqueId.96f16850-b98b-4122-bdd7-c61146346267-00e10f1c" />
+						<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
+						<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
+						<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
+						<tag value="Revit.Host.Id.14545079" />
+						<tag value="Revit.Host.UniqueId.8113d174-f4cf-40bb-a413-7238788abc7b-00ddf0b7" />
+					</ActorMesh>
+				</children>
+			</ActorMesh>
+			<ActorMesh name="269daae322c3e59d1886d065466a3990" label="墙_基本墙_A_非承重墙_240" layer="墙">
+				<mesh name="3c93bd291e685fb9ce77851514b84ff8"/>
+				<Transform tx="184.170816" ty="-165.445206" tz="-10.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.707107" qw="0.707107" qhex64="00000000000000000000000000000000CD3B7F669EA0E63FCE3B7F669EA0E63F"/>
+				<tag value="Revit.Element.Id.14545080" />
+				<tag value="Revit.Element.UniqueId.8113d174-f4cf-40bb-a413-7238788abc7b-00ddf0b8" />
+				<tag value="IsElement" />
+			</ActorMesh>
+			<ActorMesh name="c342ae221362513fd79cf22a21238494" label="楼板_楼板_A_结构楼板" layer="楼板">
+				<mesh name="2bd07090f9da1981f81c09d7b2e1a249"/>
+				<Transform tx="-767.82917" ty="526.554783" tz="-20.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Revit.Element.Id.14741388" />
+				<tag value="Revit.Element.UniqueId.dea0caa0-e56e-4085-b13b-3a3df27e19c6-00e0ef8c" />
+				<tag value="IsElement" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="4cab45079ca69a7399050a6f6abfe5f2" label="标高_LH_标高标头_正负零_精装_F1原顶" layer="标高">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Revit.Element.Id.729301" />
+		<tag value="Revit.Element.UniqueId.8599c01f-340f-4cc9-99c4-a9490f42e57f-000b20d5" />
+		<tag value="IsElement" />
+		<children visible="true">
+			<ActorMesh name="c4b9fea5534a7534277888595890658b" label="楼板_楼板_A_结构楼板" layer="楼板">
+				<mesh name="1ec0a628fa310a5f0deb1af0647a0be3"/>
+				<Transform tx="-767.82917" ty="526.554783" tz="279.999996" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Revit.Element.Id.14741407" />
+				<tag value="Revit.Element.UniqueId.dea0caa0-e56e-4085-b13b-3a3df27e19c6-00e0ef9f" />
+				<tag value="IsElement" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Texture name="31127b8ab77f5618c062716675df1a71_0" label="Masonry_Unit_Masonry_CMU_RetainingWall1" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="1" file="Bren0402_初尺-三维视图-全专业_Assets/Masonry.Unit Masonry.CMU.RetainingWall1.png">
+		<Hash value="27ff700301e33701ce5b4c0731e61bfc"/>
+	</Texture>
+	<Texture name="371cab1abe1ea3aafd031e0f9f3238ed_0" label="Masonry_Unit_Masonry_CMU_RetainingWall1_bump" texturemode="6" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="0" file="Bren0402_初尺-三维视图-全专业_Assets/Masonry.Unit Masonry.CMU.RetainingWall1.bump.png">
+		<Hash value="b244c93eda2f31dced2b8d15add37014"/>
+	</Texture>
+	<Texture name="d18963d3c8d2206aa567e0b0249fb097_0" label="polished_concrete_color" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="1" file="Bren0402_初尺-三维视图-全专业_Assets/polished_concrete_color.jpg">
+		<Hash value="90c88458e2f76f0ca0883d940f061471"/>
+	</Texture>
+	<Texture name="a70b5a37821039a0ffc837d711eaf8ab_0" label="polished_concrete_rough" texturemode="5" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="0" file="Bren0402_初尺-三维视图-全专业_Assets/polished_concrete_rough.jpg">
+		<Hash value="d25466ac2c92221564161c78ca39448d"/>
+	</Texture>
+	<Texture name="2c0b5ba6c5365fe9d31202d1e33afcb0_0" label="Woods_-_Plastics_Finish_Carpentry_Wood_White_Ash_bump" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="1" file="Bren0402_初尺-三维视图-全专业_Assets/Woods - Plastics.Finish Carpentry.Wood.White Ash.bump.jpg">
+		<Hash value="826561c4f7e473e512395d63c2bad6ef"/>
+	</Texture>
+	<MaterialInstance name="4ebdcfb4dd464dc330b9e14a189244ba"  label="IN-原建筑墙体_非承重_" Type="1" Quality="0" >
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.470588,G=0.470588,B=0.470588,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="1.000000"/>
+		<KeyValueProperty name="DiffuseMap" type="Texture" val="31127b8ab77f5618c062716675df1a71_0"/>
+		<KeyValueProperty name="DiffuseMap_UVOffsetX" type="Float" val="0.000000"/>
+		<KeyValueProperty name="DiffuseMap_UVOffsetY" type="Float" val="0.000000"/>
+		<KeyValueProperty name="DiffuseMap_UVScaleX" type="Float" val="0.333333"/>
+		<KeyValueProperty name="DiffuseMap_UVScaleY" type="Float" val="0.338624"/>
+		<KeyValueProperty name="DiffuseMap_UVWAngle" type="Float" val="0.000000"/>
+		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
+		<KeyValueProperty name="TintColor" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
+		<KeyValueProperty name="Glossiness" type="Float" val="0.250000"/>
+		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
+		<KeyValueProperty name="BumpAmount" type="Float" val="0.490000"/>
+		<KeyValueProperty name="BumpMap" type="Texture" val="371cab1abe1ea3aafd031e0f9f3238ed_0"/>
+		<KeyValueProperty name="BumpMap_UVOffsetX" type="Float" val="0.000000"/>
+		<KeyValueProperty name="BumpMap_UVOffsetY" type="Float" val="0.000000"/>
+		<KeyValueProperty name="BumpMap_UVScaleX" type="Float" val="0.333333"/>
+		<KeyValueProperty name="BumpMap_UVScaleY" type="Float" val="0.338624"/>
+		<KeyValueProperty name="BumpMap_UVWAngle" type="Float" val="0.000000"/>
+	</MaterialInstance>
+	<MaterialInstance name="ad02be2b7816034f4823e173521556f7"  label="IN-结构楼板" Type="1" Quality="0" >
+		<KeyValueProperty name="IsPBR" type="Bool" val="True"/>
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMap" type="Texture" val="d18963d3c8d2206aa567e0b0249fb097_0"/>
+		<KeyValueProperty name="DiffuseMap_UVOffsetX" type="Float" val="0.000000"/>
+		<KeyValueProperty name="DiffuseMap_UVOffsetY" type="Float" val="0.000000"/>
+		<KeyValueProperty name="DiffuseMap_UVScaleX" type="Float" val="0.050000"/>
+		<KeyValueProperty name="DiffuseMap_UVScaleY" type="Float" val="0.050000"/>
+		<KeyValueProperty name="DiffuseMap_UVWAngle" type="Float" val="0.000000"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="1.000000"/>
+		<KeyValueProperty name="RoughnessMap" type="Texture" val="a70b5a37821039a0ffc837d711eaf8ab_0"/>
+		<KeyValueProperty name="RoughnessMap_UVOffsetX" type="Float" val="0.000000"/>
+		<KeyValueProperty name="RoughnessMap_UVOffsetY" type="Float" val="0.000000"/>
+		<KeyValueProperty name="RoughnessMap_UVScaleX" type="Float" val="0.050000"/>
+		<KeyValueProperty name="RoughnessMap_UVScaleY" type="Float" val="0.050000"/>
+		<KeyValueProperty name="RoughnessMap_UVWAngle" type="Float" val="0.000000"/>
+		<KeyValueProperty name="RoughnessMapEnable" type="Bool" val="True"/>
+		<KeyValueProperty name="SelfIlluminationMapEnable" type="Bool" val="False"/>
+	</MaterialInstance>
+	<MaterialInstance name="5dab78cda081f4b99b4aa26ff8569338"  label="瓷砖" Type="1" Quality="0" >
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.835294,G=0.843137,B=0.709804,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
+		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.313726,G=0.313726,B=0.313726,A=1.000000)"/>
+		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
+		<KeyValueProperty name="Glossiness" type="Float" val="0.600000"/>
+		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
+		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
+	</MaterialInstance>
+	<MaterialInstance name="37dc8e0d43996a7d8cec2847aeb1a821"  label="涂料" Type="1" Quality="0" >
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
+		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.313726,G=0.313726,B=0.313726,A=1.000000)"/>
+		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
+		<KeyValueProperty name="SelfIlluminationColorTemperature" type="Float" val="6500.000000"/>
+		<KeyValueProperty name="SelfIlluminationFilter" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+		<KeyValueProperty name="SelfIlluminationMapEnable" type="Bool" val="False"/>
+		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
+		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
+		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
+	</MaterialInstance>
+	<MaterialInstance name="897da0d01060b1970c05937d84997f80"  label="玻璃" Type="2" Quality="0" >
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.000000,G=0.501961,B=0.752941,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
+		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.313726,G=0.313726,B=0.313726,A=1.000000)"/>
+		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
+		<KeyValueProperty name="Transparency" type="Float" val="0.850000"/>
+		<KeyValueProperty name="TransparencyMapFading" type="Float" val="0.000000"/>
+		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
+		<KeyValueProperty name="RefractionIndex" type="Float" val="1.010000"/>
+	</MaterialInstance>
+	<MaterialInstance name="bde3e71b1c92d687ccc44f00b5dc6c62"  label="窗框" Type="1" Quality="0" >
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.882353,G=0.882353,B=0.882353,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
+		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.882353,G=0.882353,B=0.882353,A=1.000000)"/>
+		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
+		<KeyValueProperty name="SelfIlluminationColorTemperature" type="Float" val="0.000000"/>
+		<KeyValueProperty name="SelfIlluminationFilter" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+		<KeyValueProperty name="SelfIlluminationMapEnable" type="Bool" val="False"/>
+		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
+		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
+		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
+	</MaterialInstance>
+	<MaterialInstance name="6941001da4d58b71b7810bd1c041e0ea"  label="把手" Type="1" Quality="0" >
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.882353,G=0.882353,B=0.882353,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
+		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.882353,G=0.882353,B=0.882353,A=1.000000)"/>
+		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
+		<KeyValueProperty name="SelfIlluminationColorTemperature" type="Float" val="0.000000"/>
+		<KeyValueProperty name="SelfIlluminationFilter" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+		<KeyValueProperty name="SelfIlluminationMapEnable" type="Bool" val="False"/>
+		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
+		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
+		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
+	</MaterialInstance>
+	<MaterialInstance name="edb194b51675bb45d2bd0290de011e88"  label="柜体" Type="1" Quality="0" >
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.776471,G=0.686275,B=0.556863,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="1.000000"/>
+		<KeyValueProperty name="DiffuseMap" type="Texture" val="2c0b5ba6c5365fe9d31202d1e33afcb0_0"/>
+		<KeyValueProperty name="DiffuseMap_UVOffsetX" type="Float" val="0.000000"/>
+		<KeyValueProperty name="DiffuseMap_UVOffsetY" type="Float" val="0.000000"/>
+		<KeyValueProperty name="DiffuseMap_UVScaleX" type="Float" val="1.200000"/>
+		<KeyValueProperty name="DiffuseMap_UVScaleY" type="Float" val="1.200000"/>
+		<KeyValueProperty name="DiffuseMap_UVWAngle" type="Float" val="0.000000"/>
+		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.313726,G=0.313726,B=0.313726,A=1.000000)"/>
+		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
+		<KeyValueProperty name="Glossiness" type="Float" val="0.650000"/>
+		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
+		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
+	</MaterialInstance>
+	<MaterialInstance name="d5b0ac4c00637c62736b0244129d5348"  label="门板" Type="1" Quality="0" >
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.776471,G=0.686275,B=0.556863,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="1.000000"/>
+		<KeyValueProperty name="DiffuseMap" type="Texture" val="2c0b5ba6c5365fe9d31202d1e33afcb0_0"/>
+		<KeyValueProperty name="DiffuseMap_UVOffsetX" type="Float" val="0.000000"/>
+		<KeyValueProperty name="DiffuseMap_UVOffsetY" type="Float" val="0.000000"/>
+		<KeyValueProperty name="DiffuseMap_UVScaleX" type="Float" val="1.200000"/>
+		<KeyValueProperty name="DiffuseMap_UVScaleY" type="Float" val="1.200000"/>
+		<KeyValueProperty name="DiffuseMap_UVWAngle" type="Float" val="0.000000"/>
+		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.313726,G=0.313726,B=0.313726,A=1.000000)"/>
+		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
+		<KeyValueProperty name="Glossiness" type="Float" val="0.650000"/>
+		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
+		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
+	</MaterialInstance>
+	<MaterialInstance name="7bd2ea606d801b282e8c30d9f59ffd13"  label="铰链" Type="1" Quality="0" >
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.498039,G=0.498039,B=0.498039,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
+		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.498039,G=0.498039,B=0.498039,A=1.000000)"/>
+		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
+		<KeyValueProperty name="SelfIlluminationColorTemperature" type="Float" val="0.000000"/>
+		<KeyValueProperty name="SelfIlluminationFilter" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+		<KeyValueProperty name="SelfIlluminationMapEnable" type="Bool" val="False"/>
+		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
+		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
+		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
+	</MaterialInstance>
+	<MaterialInstance name="74d6cacb9641b43e961979b661d30677"  label="RNT_Material" Type="1" Quality="0" >
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.498039,G=0.498039,B=0.498039,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
+		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
+		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
+		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
+		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
+		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
+	</MaterialInstance>
+	<MetaData name="cf6152e30339765264d57a9477a60201_DATA" reference="Actor.cf6152e30339765264d57a9477a60201">
+		<KeyValueProperty name="SurveyPointLocation*Location" type="Vector" val="(0,0,0)"/>
+		<KeyValueProperty name="SurveyPointLocation*北/南" type="String" val="0"/>
+		<KeyValueProperty name="SurveyPointLocation*东/西" type="String" val="0"/>
+		<KeyValueProperty name="SurveyPointLocation*高程" type="String" val="0"/>
+	</MetaData>
+	<MetaData name="794fdf7ea22e73af20feb0e3aecdc010_DATA" reference="Actor.794fdf7ea22e73af20feb0e3aecdc010">
+		<KeyValueProperty name="BasePointLocation*Location" type="Vector" val="(0,0,0)"/>
+		<KeyValueProperty name="BasePointLocation*北/南" type="String" val="0"/>
+		<KeyValueProperty name="BasePointLocation*东/西" type="String" val="0"/>
+		<KeyValueProperty name="BasePointLocation*高程" type="String" val="0"/>
+		<KeyValueProperty name="BasePointLocation*到正北的角度" type="String" val="0.00°"/>
+	</MetaData>
+	<MetaData name="ee1207258332027100aff9380cab7e46_DATA" reference="Actor.ee1207258332027100aff9380cab7e46">
+		<KeyValueProperty name="Element*Category" type="String" val="楼板"/>
+		<KeyValueProperty name="Element*Family" type="String" val="楼板"/>
+		<KeyValueProperty name="Element*Type" type="String" val="IN_地面_瓷砖"/>
+		<KeyValueProperty name="Element*结构" type="String" val="否"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="精装"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*启用分析模型" type="String" val="否"/>
+		<KeyValueProperty name="Element*周长" type="String" val="31440"/>
+		<KeyValueProperty name="Element*面积" type="String" val="60.09"/>
+		<KeyValueProperty name="Element*体积" type="String" val="6.01"/>
+		<KeyValueProperty name="Element*顶部高程" type="String" val="0"/>
+		<KeyValueProperty name="Element*底部高程" type="String" val="-100"/>
+		<KeyValueProperty name="Element*厚度" type="String" val="100"/>
+		<KeyValueProperty name="Type*类型注释" type="String" val="地面"/>
+		<KeyValueProperty name="Type*结构材质" type="String" val="瓷砖"/>
+		<KeyValueProperty name="Type*部件代码" type="String" val="EL.002092"/>
+	</MetaData>
+	<MetaData name="f9877d16dd33ba22bfa11a0a4e26be55_DATA" reference="Actor.f9877d16dd33ba22bfa11a0a4e26be55">
+		<KeyValueProperty name="Element*Category" type="String" val="天花板"/>
+		<KeyValueProperty name="Element*Family" type="String" val="复合天花板"/>
+		<KeyValueProperty name="Element*Type" type="String" val="IN_平顶_涂料"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="精装"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*周长" type="String" val="31440"/>
+		<KeyValueProperty name="Element*面积" type="String" val="60.09"/>
+		<KeyValueProperty name="Element*体积" type="String" val="1.20"/>
+		<KeyValueProperty name="Type*部件代码" type="String" val="EL.000271"/>
+	</MetaData>
+	<MetaData name="9c8ae493e33b192eff846e28112be02d_DATA" reference="Actor.9c8ae493e33b192eff846e28112be02d">
+		<KeyValueProperty name="Element*Category" type="String" val="墙"/>
+		<KeyValueProperty name="Element*Family" type="String" val="基本墙"/>
+		<KeyValueProperty name="Element*Type" type="String" val="IN_墙面_瓷砖"/>
+		<KeyValueProperty name="Element*结构" type="String" val="否"/>
+		<KeyValueProperty name="Element*启用分析模型" type="String" val="否"/>
+		<KeyValueProperty name="Element*结构用途" type="String" val="非承重"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="精装"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*长度" type="String" val="9140"/>
+		<KeyValueProperty name="Element*面积" type="String" val="21.53"/>
+		<KeyValueProperty name="Element*体积" type="String" val="0.43"/>
+		<KeyValueProperty name="Type*类型注释" type="String" val="瓷砖墙面"/>
+		<KeyValueProperty name="Type*说明" type="String" val="墙面完成面"/>
+		<KeyValueProperty name="Type*结构材质" type="String" val="瓷砖"/>
+		<KeyValueProperty name="Type*部件代码" type="String" val="EL.002093"/>
+	</MetaData>
+	<MetaData name="f1b2524b7e46ce07a5e8291558bbc1d9_DATA" reference="Actor.f1b2524b7e46ce07a5e8291558bbc1d9">
+		<KeyValueProperty name="Element*Category" type="String" val="墙"/>
+		<KeyValueProperty name="Element*Family" type="String" val="基本墙"/>
+		<KeyValueProperty name="Element*Type" type="String" val="IN_墙面_瓷砖"/>
+		<KeyValueProperty name="Element*结构" type="String" val="否"/>
+		<KeyValueProperty name="Element*启用分析模型" type="String" val="否"/>
+		<KeyValueProperty name="Element*结构用途" type="String" val="非承重"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="精装"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*长度" type="String" val="6540"/>
+		<KeyValueProperty name="Element*面积" type="String" val="15.37"/>
+		<KeyValueProperty name="Element*体积" type="String" val="0.31"/>
+		<KeyValueProperty name="Type*类型注释" type="String" val="瓷砖墙面"/>
+		<KeyValueProperty name="Type*说明" type="String" val="墙面完成面"/>
+		<KeyValueProperty name="Type*结构材质" type="String" val="瓷砖"/>
+		<KeyValueProperty name="Type*部件代码" type="String" val="EL.002093"/>
+	</MetaData>
+	<MetaData name="9ab183f4b33d02f19b19b870277ff377_DATA" reference="Actor.9ab183f4b33d02f19b19b870277ff377">
+		<KeyValueProperty name="Element*Category" type="String" val="墙"/>
+		<KeyValueProperty name="Element*Family" type="String" val="基本墙"/>
+		<KeyValueProperty name="Element*Type" type="String" val="IN_墙面_瓷砖"/>
+		<KeyValueProperty name="Element*结构" type="String" val="否"/>
+		<KeyValueProperty name="Element*启用分析模型" type="String" val="否"/>
+		<KeyValueProperty name="Element*结构用途" type="String" val="非承重"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="精装"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*长度" type="String" val="9140"/>
+		<KeyValueProperty name="Element*面积" type="String" val="18.84"/>
+		<KeyValueProperty name="Element*体积" type="String" val="0.38"/>
+		<KeyValueProperty name="Type*类型注释" type="String" val="瓷砖墙面"/>
+		<KeyValueProperty name="Type*说明" type="String" val="墙面完成面"/>
+		<KeyValueProperty name="Type*结构材质" type="String" val="瓷砖"/>
+		<KeyValueProperty name="Type*部件代码" type="String" val="EL.002093"/>
+	</MetaData>
+	<MetaData name="92bd271705b80e2c5a0bd1b7f51d7b0d_DATA" reference="Actor.92bd271705b80e2c5a0bd1b7f51d7b0d">
+		<KeyValueProperty name="Element*Category" type="String" val="墙"/>
+		<KeyValueProperty name="Element*Family" type="String" val="基本墙"/>
+		<KeyValueProperty name="Element*Type" type="String" val="IN_墙面_瓷砖"/>
+		<KeyValueProperty name="Element*结构" type="String" val="否"/>
+		<KeyValueProperty name="Element*启用分析模型" type="String" val="否"/>
+		<KeyValueProperty name="Element*结构用途" type="String" val="非承重"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="精装"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*长度" type="String" val="6540"/>
+		<KeyValueProperty name="Element*面积" type="String" val="15.32"/>
+		<KeyValueProperty name="Element*体积" type="String" val="0.31"/>
+		<KeyValueProperty name="Type*类型注释" type="String" val="瓷砖墙面"/>
+		<KeyValueProperty name="Type*说明" type="String" val="墙面完成面"/>
+		<KeyValueProperty name="Type*结构材质" type="String" val="瓷砖"/>
+		<KeyValueProperty name="Type*部件代码" type="String" val="EL.002093"/>
+	</MetaData>
+	<MetaData name="ee30674cedde28b4553dac60cc5e9750_DATA" reference="Actor.ee30674cedde28b4553dac60cc5e9750">
+		<KeyValueProperty name="Element*Category" type="String" val="橱柜"/>
+		<KeyValueProperty name="Element*Family" type="String" val="IN_木作_万能衣柜"/>
+		<KeyValueProperty name="Element*Type" type="String" val="万能衣柜"/>
+		<KeyValueProperty name="Element*h1" type="String" val="0"/>
+		<KeyValueProperty name="Element*h2" type="String" val="0"/>
+		<KeyValueProperty name="Element*h3" type="String" val="0"/>
+		<KeyValueProperty name="Element*h4" type="String" val="0"/>
+		<KeyValueProperty name="Element*门板H" type="String" val="2223"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*开门方向" type="String" val="0.000,-1.000,0.000"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="精装"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*Height" type="String" val="2250"/>
+		<KeyValueProperty name="Element*Width" type="String" val="400"/>
+		<KeyValueProperty name="Element*Depth" type="String" val="600"/>
+		<KeyValueProperty name="Type*GTCZ" type="String" val="柜体"/>
+		<KeyValueProperty name="Type*JLCZ" type="String" val="铰链"/>
+		<KeyValueProperty name="Type*MBCZ" type="String" val="门板"/>
+		<KeyValueProperty name="Type*BSCZ" type="String" val="把手"/>
+		<KeyValueProperty name="Type*部件代码" type="String" val="EL.001970"/>
+		<KeyValueProperty name="Type*OmniClass 编号" type="String" val="23.40.20.00"/>
+		<KeyValueProperty name="Type*OmniClass 标题" type="String" val="General Furniture and Specialties"/>
+	</MetaData>
+	<MetaData name="3fb8d22d32d6b0ce46255d7593ea6780_DATA" reference="Actor.3fb8d22d32d6b0ce46255d7593ea6780">
+		<KeyValueProperty name="Element*Category" type="String" val="橱柜"/>
+		<KeyValueProperty name="Element*Family" type="String" val="IN_木作_万能衣柜"/>
+		<KeyValueProperty name="Element*Type" type="String" val="万能衣柜"/>
+		<KeyValueProperty name="Element*h1" type="String" val="0"/>
+		<KeyValueProperty name="Element*h2" type="String" val="0"/>
+		<KeyValueProperty name="Element*h3" type="String" val="0"/>
+		<KeyValueProperty name="Element*h4" type="String" val="0"/>
+		<KeyValueProperty name="Element*门板H" type="String" val="2223"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*开门方向" type="String" val="0.000,-1.000,0.000"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="精装"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*Height" type="String" val="2250"/>
+		<KeyValueProperty name="Element*Width" type="String" val="400"/>
+		<KeyValueProperty name="Element*Depth" type="String" val="600"/>
+		<KeyValueProperty name="Type*GTCZ" type="String" val="柜体"/>
+		<KeyValueProperty name="Type*JLCZ" type="String" val="铰链"/>
+		<KeyValueProperty name="Type*MBCZ" type="String" val="门板"/>
+		<KeyValueProperty name="Type*BSCZ" type="String" val="把手"/>
+		<KeyValueProperty name="Type*部件代码" type="String" val="EL.001970"/>
+		<KeyValueProperty name="Type*OmniClass 编号" type="String" val="23.40.20.00"/>
+		<KeyValueProperty name="Type*OmniClass 标题" type="String" val="General Furniture and Specialties"/>
+	</MetaData>
+	<MetaData name="975455dfcd0929d4e7416935181eb6f7_DATA" reference="Actor.975455dfcd0929d4e7416935181eb6f7">
+		<KeyValueProperty name="Element*Category" type="String" val="橱柜"/>
+		<KeyValueProperty name="Element*Family" type="String" val="IN_木作_门板_右开门_铣型扣手"/>
+		<KeyValueProperty name="Element*Type" type="String" val="铣型扣手右开门"/>
+		<KeyValueProperty name="Element*h1" type="String" val="0"/>
+		<KeyValueProperty name="Element*h2" type="String" val="0"/>
+		<KeyValueProperty name="Element*h3" type="String" val="0"/>
+		<KeyValueProperty name="Element*h4" type="String" val="0"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*开门方向" type="String" val="0.000,-1.000,0.000"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="精装"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*公用侧板偏移" type="String" val="0"/>
+		<KeyValueProperty name="Element*铰链H1规则" type="String" val="760"/>
+		<KeyValueProperty name="Element*铰链H2规则" type="String" val="1463"/>
+		<KeyValueProperty name="Element*铰链H3规则" type="String" val="2003"/>
+		<KeyValueProperty name="Element*铰链H4规则" type="String" val="2003"/>
+		<KeyValueProperty name="Element*铰链个数3" type="String" val="是"/>
+		<KeyValueProperty name="Element*铰链个数4" type="String" val="是"/>
+		<KeyValueProperty name="Element*铰链个数5" type="String" val="否"/>
+		<KeyValueProperty name="Element*铰链个数6" type="String" val="否"/>
+		<KeyValueProperty name="Element*底铰链距边" type="String" val="120"/>
+		<KeyValueProperty name="Element*顶铰链距边" type="String" val="120"/>
+		<KeyValueProperty name="Element*JLCZ" type="String" val="铰链"/>
+		<KeyValueProperty name="Element*MBCZ" type="String" val="门板"/>
+		<KeyValueProperty name="Element*BSCZ" type="String" val="把手"/>
+		<KeyValueProperty name="Element*Depth" type="String" val="22"/>
+		<KeyValueProperty name="Element*Height" type="String" val="2223"/>
+		<KeyValueProperty name="Element*Width" type="String" val="397"/>
+		<KeyValueProperty name="Element*HD" type="String" val="22"/>
+		<KeyValueProperty name="Type*部件代码" type="String" val="EL.002567"/>
+	</MetaData>
+	<MetaData name="7dcdf1f08bdbb632247c15591ed5d84b_DATA" reference="Actor.7dcdf1f08bdbb632247c15591ed5d84b">
+		<KeyValueProperty name="Element*Category" type="String" val="橱柜"/>
+		<KeyValueProperty name="Element*Family" type="String" val="IN_木作_门板_右开门_铣型扣手"/>
+		<KeyValueProperty name="Element*Type" type="String" val="铣型扣手右开门"/>
+		<KeyValueProperty name="Element*h1" type="String" val="0"/>
+		<KeyValueProperty name="Element*h2" type="String" val="0"/>
+		<KeyValueProperty name="Element*h3" type="String" val="0"/>
+		<KeyValueProperty name="Element*h4" type="String" val="0"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*开门方向" type="String" val="0.000,-1.000,0.000"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="精装"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*公用侧板偏移" type="String" val="0"/>
+		<KeyValueProperty name="Element*铰链H1规则" type="String" val="760"/>
+		<KeyValueProperty name="Element*铰链H2规则" type="String" val="1463"/>
+		<KeyValueProperty name="Element*铰链H3规则" type="String" val="2003"/>
+		<KeyValueProperty name="Element*铰链H4规则" type="String" val="2003"/>
+		<KeyValueProperty name="Element*铰链个数3" type="String" val="是"/>
+		<KeyValueProperty name="Element*铰链个数4" type="String" val="是"/>
+		<KeyValueProperty name="Element*铰链个数5" type="String" val="否"/>
+		<KeyValueProperty name="Element*铰链个数6" type="String" val="否"/>
+		<KeyValueProperty name="Element*底铰链距边" type="String" val="120"/>
+		<KeyValueProperty name="Element*顶铰链距边" type="String" val="120"/>
+		<KeyValueProperty name="Element*JLCZ" type="String" val="铰链"/>
+		<KeyValueProperty name="Element*MBCZ" type="String" val="门板"/>
+		<KeyValueProperty name="Element*BSCZ" type="String" val="把手"/>
+		<KeyValueProperty name="Element*Depth" type="String" val="22"/>
+		<KeyValueProperty name="Element*Height" type="String" val="2223"/>
+		<KeyValueProperty name="Element*Width" type="String" val="397"/>
+		<KeyValueProperty name="Element*HD" type="String" val="22"/>
+		<KeyValueProperty name="Type*部件代码" type="String" val="EL.002567"/>
+	</MetaData>
+	<MetaData name="ed4dd73afb1aab8dbb1f2fd19cf15a6c_DATA" reference="Actor.ed4dd73afb1aab8dbb1f2fd19cf15a6c">
+		<KeyValueProperty name="Element*Category" type="String" val="橱柜"/>
+		<KeyValueProperty name="Element*Family" type="String" val="IN_木作_斗铰面"/>
+		<KeyValueProperty name="Element*Type" type="String" val="斗铰面"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*开门方向" type="String" val="0.000,-1.000,0.000"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="精装"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*五金器具材质" type="String" val="铰链"/>
+	</MetaData>
+	<MetaData name="abbd5348f2e4caa30585044c8b98dd75_DATA" reference="Actor.abbd5348f2e4caa30585044c8b98dd75">
+		<KeyValueProperty name="Element*Category" type="String" val="橱柜"/>
+		<KeyValueProperty name="Element*Family" type="String" val="IN_木作_斗铰面"/>
+		<KeyValueProperty name="Element*Type" type="String" val="斗铰面"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*开门方向" type="String" val="0.000,-1.000,0.000"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="精装"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*五金器具材质" type="String" val="铰链"/>
+	</MetaData>
+	<MetaData name="7bf2f65731961d81e55456183457e0e8_DATA" reference="Actor.7bf2f65731961d81e55456183457e0e8">
+		<KeyValueProperty name="Element*Category" type="String" val="橱柜"/>
+		<KeyValueProperty name="Element*Family" type="String" val="IN_木作_斗铰面"/>
+		<KeyValueProperty name="Element*Type" type="String" val="斗铰面"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*开门方向" type="String" val="0.000,-1.000,0.000"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="精装"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*五金器具材质" type="String" val="铰链"/>
+	</MetaData>
+	<MetaData name="9082662ad9662b2dfc219134877308cc_DATA" reference="Actor.9082662ad9662b2dfc219134877308cc">
+		<KeyValueProperty name="Element*Category" type="String" val="橱柜"/>
+		<KeyValueProperty name="Element*Family" type="String" val="IN_木作_斗铰面"/>
+		<KeyValueProperty name="Element*Type" type="String" val="斗铰面"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*开门方向" type="String" val="0.000,-1.000,0.000"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="精装"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*五金器具材质" type="String" val="铰链"/>
+	</MetaData>
+	<MetaData name="2e7126da428fa62cce0d7f9d95037e80_DATA" reference="Actor.2e7126da428fa62cce0d7f9d95037e80">
+		<KeyValueProperty name="Element*Category" type="String" val="橱柜"/>
+		<KeyValueProperty name="Element*Family" type="String" val="IN_木作_斗铰面"/>
+		<KeyValueProperty name="Element*Type" type="String" val="斗铰面"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*开门方向" type="String" val="0.000,-1.000,0.000"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="精装"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*五金器具材质" type="String" val="铰链"/>
+	</MetaData>
+	<MetaData name="f661d6f21034a36c6bdd1301a72f2900_DATA" reference="Actor.f661d6f21034a36c6bdd1301a72f2900">
+		<KeyValueProperty name="Element*Category" type="String" val="橱柜"/>
+		<KeyValueProperty name="Element*Family" type="String" val="IN_木作_斗铰面"/>
+		<KeyValueProperty name="Element*Type" type="String" val="斗铰面"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*开门方向" type="String" val="0.000,-1.000,0.000"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="精装"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*五金器具材质" type="String" val="铰链"/>
+	</MetaData>
+	<MetaData name="6a5ff22466ad287ecff1dd786c71f357_DATA" reference="Actor.6a5ff22466ad287ecff1dd786c71f357">
+		<KeyValueProperty name="Element*Category" type="String" val="橱柜"/>
+		<KeyValueProperty name="Element*Family" type="String" val="IN_木作_斗铰面"/>
+		<KeyValueProperty name="Element*Type" type="String" val="斗铰面"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*开门方向" type="String" val="0.000,-1.000,0.000"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="精装"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*五金器具材质" type="String" val="铰链"/>
+	</MetaData>
+	<MetaData name="97a4c7353f9ded75c75e074d77520f56_DATA" reference="Actor.97a4c7353f9ded75c75e074d77520f56">
+		<KeyValueProperty name="Element*Category" type="String" val="橱柜"/>
+		<KeyValueProperty name="Element*Family" type="String" val="IN_木作_斗铰面"/>
+		<KeyValueProperty name="Element*Type" type="String" val="斗铰面"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*开门方向" type="String" val="0.000,-1.000,0.000"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="精装"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*五金器具材质" type="String" val="铰链"/>
+	</MetaData>
+	<MetaData name="c9bae0414683138528e01e695398e7f0_DATA" reference="Actor.c9bae0414683138528e01e695398e7f0">
+		<KeyValueProperty name="Element*Category" type="String" val="标高"/>
+		<KeyValueProperty name="Element*Family" type="String" val="标高"/>
+		<KeyValueProperty name="Element*Type" type="String" val="LH_标高标头_正负零_精装"/>
+		<KeyValueProperty name="Element*名称" type="String" val="F1完成面"/>
+		<KeyValueProperty name="Element*计算高度" type="String" val="130"/>
+		<KeyValueProperty name="Element*结构" type="String" val="否"/>
+		<KeyValueProperty name="Element*建筑楼层" type="String" val="是"/>
+	</MetaData>
+	<MetaData name="097910edcdfa6c70eb67324850a45615_DATA" reference="Actor.097910edcdfa6c70eb67324850a45615">
+		<KeyValueProperty name="Element*Category" type="String" val="线管"/>
+		<KeyValueProperty name="Element*Family" type="String" val="带配件的线管"/>
+		<KeyValueProperty name="Element*Type" type="String" val="MEP_PVC线管(红)_DN20"/>
+		<KeyValueProperty name="Element*外径" type="String" val="56 mm"/>
+		<KeyValueProperty name="Element*内径" type="String" val="53 mm"/>
+		<KeyValueProperty name="Element*尺寸" type="String" val="53 mm"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="精装"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*直径(公称尺寸)" type="String" val="53 mm"/>
+		<KeyValueProperty name="Element*长度" type="String" val="2700"/>
+		<KeyValueProperty name="Type*部件代码" type="String" val="EL.001114"/>
+	</MetaData>
+	<MetaData name="056de4bbc08e669d28eb1b7274c7ab2a_DATA" reference="Actor.056de4bbc08e669d28eb1b7274c7ab2a">
+		<KeyValueProperty name="Element*Category" type="String" val="线管"/>
+		<KeyValueProperty name="Element*Family" type="String" val="带配件的线管"/>
+		<KeyValueProperty name="Element*Type" type="String" val="MEP_PVC线管(红)_DN20"/>
+		<KeyValueProperty name="Element*设备类型" type="String" val="2222"/>
+		<KeyValueProperty name="Element*外径" type="String" val="56 mm"/>
+		<KeyValueProperty name="Element*内径" type="String" val="53 mm"/>
+		<KeyValueProperty name="Element*尺寸" type="String" val="53 mm"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="精装"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*直径(公称尺寸)" type="String" val="53 mm"/>
+		<KeyValueProperty name="Element*长度" type="String" val="1474"/>
+		<KeyValueProperty name="Type*部件代码" type="String" val="EL.001114"/>
+	</MetaData>
+	<MetaData name="721f66edc41e76c304694a806eb16b77_DATA" reference="Actor.721f66edc41e76c304694a806eb16b77">
+		<KeyValueProperty name="Element*Category" type="String" val="电缆桥架"/>
+		<KeyValueProperty name="Element*Family" type="String" val="带配件的电缆桥架"/>
+		<KeyValueProperty name="Element*Type" type="String" val="MEP_冷媒桥架_100*50"/>
+		<KeyValueProperty name="Element*尺寸" type="String" val="300 mmx100 mmø"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="精装"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*宽度" type="String" val="300 mm"/>
+		<KeyValueProperty name="Element*高度" type="String" val="100 mm"/>
+		<KeyValueProperty name="Element*长度" type="String" val="2500"/>
+		<KeyValueProperty name="Type*部件代码" type="String" val="EL.001067"/>
+	</MetaData>
+	<MetaData name="617d1bdde276dc2ef614f4e462b47b2f_DATA" reference="Actor.617d1bdde276dc2ef614f4e462b47b2f">
+		<KeyValueProperty name="Element*Category" type="String" val="墙"/>
+		<KeyValueProperty name="Element*Family" type="String" val="基本墙"/>
+		<KeyValueProperty name="Element*Type" type="String" val="A_非承重墙_240"/>
+		<KeyValueProperty name="Element*结构" type="String" val="否"/>
+		<KeyValueProperty name="Element*启用分析模型" type="String" val="否"/>
+		<KeyValueProperty name="Element*结构用途" type="String" val="非承重"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="原有"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*长度" type="String" val="9400"/>
+		<KeyValueProperty name="Element*面积" type="String" val="27.26"/>
+		<KeyValueProperty name="Element*体积" type="String" val="6.54"/>
+		<KeyValueProperty name="Type*类型注释" type="String" val="非承重墙"/>
+		<KeyValueProperty name="Type*部件代码" type="String" val="EL.000284"/>
+	</MetaData>
+	<MetaData name="797ae8efd53d9d76759149cb844d0ef7_DATA" reference="Actor.797ae8efd53d9d76759149cb844d0ef7">
+		<KeyValueProperty name="Element*Category" type="String" val="墙"/>
+		<KeyValueProperty name="Element*Family" type="String" val="基本墙"/>
+		<KeyValueProperty name="Element*Type" type="String" val="A_非承重墙_240"/>
+		<KeyValueProperty name="Element*结构" type="String" val="否"/>
+		<KeyValueProperty name="Element*启用分析模型" type="String" val="否"/>
+		<KeyValueProperty name="Element*结构用途" type="String" val="非承重"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="原有"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*长度" type="String" val="6800"/>
+		<KeyValueProperty name="Element*面积" type="String" val="19.72"/>
+		<KeyValueProperty name="Element*体积" type="String" val="4.73"/>
+		<KeyValueProperty name="Type*类型注释" type="String" val="非承重墙"/>
+		<KeyValueProperty name="Type*部件代码" type="String" val="EL.000284"/>
+	</MetaData>
+	<MetaData name="e06645beb51b14e402e996f68ca556f1_DATA" reference="Actor.e06645beb51b14e402e996f68ca556f1">
+		<KeyValueProperty name="Element*Category" type="String" val="窗"/>
+		<KeyValueProperty name="Element*Family" type="String" val="A_双扇平开窗"/>
+		<KeyValueProperty name="Element*Type" type="String" val="2200x1200x800x80"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*开门方向" type="String" val="0.000,-1.000,0.000"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="新建"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*标记" type="String" val="117"/>
+		<KeyValueProperty name="Type*窗框材质" type="String" val="窗框"/>
+		<KeyValueProperty name="Type*玻璃材质" type="String" val="玻璃"/>
+		<KeyValueProperty name="Type*把手材质" type="String" val="把手"/>
+		<KeyValueProperty name="Type*宽度" type="String" val="2200"/>
+		<KeyValueProperty name="Type*高度" type="String" val="1200"/>
+		<KeyValueProperty name="Type*内边距" type="String" val="80"/>
+		<KeyValueProperty name="Type*开启扇宽度" type="String" val="800"/>
+		<KeyValueProperty name="Type*厚度" type="String" val="75"/>
+		<KeyValueProperty name="Type*部件代码" type="String" val="EL.000229"/>
+		<KeyValueProperty name="Type*类型标记" type="String" val="C1716"/>
+		<KeyValueProperty name="Type*OmniClass 编号" type="String" val="23.30.20.00"/>
+		<KeyValueProperty name="Type*OmniClass 标题" type="String" val="Windows"/>
+	</MetaData>
+	<MetaData name="1bb4051368f993f4c2dbdf721e92660e_DATA" reference="Actor.1bb4051368f993f4c2dbdf721e92660e">
+		<KeyValueProperty name="Element*Category" type="String" val="窗"/>
+		<KeyValueProperty name="Element*Family" type="String" val="A_双扇平开窗"/>
+		<KeyValueProperty name="Element*Type" type="String" val="2200x1200x800x80"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*开门方向" type="String" val="0.000,-1.000,0.000"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="新建"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*标记" type="String" val="117"/>
+		<KeyValueProperty name="Type*窗框材质" type="String" val="窗框"/>
+		<KeyValueProperty name="Type*玻璃材质" type="String" val="玻璃"/>
+		<KeyValueProperty name="Type*把手材质" type="String" val="把手"/>
+		<KeyValueProperty name="Type*宽度" type="String" val="2200"/>
+		<KeyValueProperty name="Type*高度" type="String" val="1200"/>
+		<KeyValueProperty name="Type*内边距" type="String" val="80"/>
+		<KeyValueProperty name="Type*开启扇宽度" type="String" val="800"/>
+		<KeyValueProperty name="Type*厚度" type="String" val="75"/>
+		<KeyValueProperty name="Type*部件代码" type="String" val="EL.000229"/>
+		<KeyValueProperty name="Type*类型标记" type="String" val="C1716"/>
+		<KeyValueProperty name="Type*OmniClass 编号" type="String" val="23.30.20.00"/>
+		<KeyValueProperty name="Type*OmniClass 标题" type="String" val="Windows"/>
+	</MetaData>
+	<MetaData name="0971045a36c7cc1ca690a6c882eff99a_DATA" reference="Actor.0971045a36c7cc1ca690a6c882eff99a">
+		<KeyValueProperty name="Element*Category" type="String" val="墙"/>
+		<KeyValueProperty name="Element*Family" type="String" val="基本墙"/>
+		<KeyValueProperty name="Element*Type" type="String" val="A_非承重墙_240"/>
+		<KeyValueProperty name="Element*结构" type="String" val="否"/>
+		<KeyValueProperty name="Element*启用分析模型" type="String" val="否"/>
+		<KeyValueProperty name="Element*结构用途" type="String" val="非承重"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="原有"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*长度" type="String" val="9400"/>
+		<KeyValueProperty name="Element*面积" type="String" val="24.62"/>
+		<KeyValueProperty name="Element*体积" type="String" val="5.91"/>
+		<KeyValueProperty name="Type*类型注释" type="String" val="非承重墙"/>
+		<KeyValueProperty name="Type*部件代码" type="String" val="EL.000284"/>
+	</MetaData>
+	<MetaData name="269daae322c3e59d1886d065466a3990_DATA" reference="Actor.269daae322c3e59d1886d065466a3990">
+		<KeyValueProperty name="Element*Category" type="String" val="墙"/>
+		<KeyValueProperty name="Element*Family" type="String" val="基本墙"/>
+		<KeyValueProperty name="Element*Type" type="String" val="A_非承重墙_240"/>
+		<KeyValueProperty name="Element*结构" type="String" val="否"/>
+		<KeyValueProperty name="Element*启用分析模型" type="String" val="否"/>
+		<KeyValueProperty name="Element*结构用途" type="String" val="非承重"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="原有"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*长度" type="String" val="6800"/>
+		<KeyValueProperty name="Element*面积" type="String" val="19.72"/>
+		<KeyValueProperty name="Element*体积" type="String" val="4.73"/>
+		<KeyValueProperty name="Type*类型注释" type="String" val="非承重墙"/>
+		<KeyValueProperty name="Type*部件代码" type="String" val="EL.000284"/>
+	</MetaData>
+	<MetaData name="c342ae221362513fd79cf22a21238494_DATA" reference="Actor.c342ae221362513fd79cf22a21238494">
+		<KeyValueProperty name="Element*Category" type="String" val="楼板"/>
+		<KeyValueProperty name="Element*Family" type="String" val="楼板"/>
+		<KeyValueProperty name="Element*Type" type="String" val="A_结构楼板"/>
+		<KeyValueProperty name="Element*结构" type="String" val="否"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="原有"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*启用分析模型" type="String" val="否"/>
+		<KeyValueProperty name="Element*周长" type="String" val="33360"/>
+		<KeyValueProperty name="Element*面积" type="String" val="67.87"/>
+		<KeyValueProperty name="Element*体积" type="String" val="6.79"/>
+		<KeyValueProperty name="Element*顶部高程" type="String" val="-100"/>
+		<KeyValueProperty name="Element*底部高程" type="String" val="-200"/>
+		<KeyValueProperty name="Element*厚度" type="String" val="100"/>
+		<KeyValueProperty name="Type*类型注释" type="String" val="地面"/>
+		<KeyValueProperty name="Type*部件代码" type="String" val="EL.000244"/>
+	</MetaData>
+	<MetaData name="19bb1e8fc4896300e8e74da5a466fbce_DATA" reference="Actor.19bb1e8fc4896300e8e74da5a466fbce">
+		<KeyValueProperty name="Element*Category" type="String" val="标高"/>
+		<KeyValueProperty name="Element*Family" type="String" val="标高"/>
+		<KeyValueProperty name="Element*Type" type="String" val="LH_标高标头_正负零_精装"/>
+		<KeyValueProperty name="Element*名称" type="String" val="F1底板"/>
+		<KeyValueProperty name="Element*计算高度" type="String" val="0"/>
+		<KeyValueProperty name="Element*结构" type="String" val="否"/>
+		<KeyValueProperty name="Element*建筑楼层" type="String" val="是"/>
+	</MetaData>
+	<MetaData name="c4b9fea5534a7534277888595890658b_DATA" reference="Actor.c4b9fea5534a7534277888595890658b">
+		<KeyValueProperty name="Element*Category" type="String" val="楼板"/>
+		<KeyValueProperty name="Element*Family" type="String" val="楼板"/>
+		<KeyValueProperty name="Element*Type" type="String" val="A_结构楼板"/>
+		<KeyValueProperty name="Element*结构" type="String" val="否"/>
+		<KeyValueProperty name="Element*所属空间" type="String" val="未命名1"/>
+		<KeyValueProperty name="Element*创建的阶段" type="String" val="原有"/>
+		<KeyValueProperty name="Element*拆除的阶段" type="String" val="无"/>
+		<KeyValueProperty name="Element*启用分析模型" type="String" val="否"/>
+		<KeyValueProperty name="Element*周长" type="String" val="33360"/>
+		<KeyValueProperty name="Element*面积" type="String" val="67.87"/>
+		<KeyValueProperty name="Element*体积" type="String" val="6.79"/>
+		<KeyValueProperty name="Element*顶部高程" type="String" val="2900"/>
+		<KeyValueProperty name="Element*底部高程" type="String" val="2800"/>
+		<KeyValueProperty name="Element*厚度" type="String" val="100"/>
+		<KeyValueProperty name="Type*类型注释" type="String" val="地面"/>
+		<KeyValueProperty name="Type*部件代码" type="String" val="EL.000244"/>
+	</MetaData>
+	<MetaData name="4cab45079ca69a7399050a6f6abfe5f2_DATA" reference="Actor.4cab45079ca69a7399050a6f6abfe5f2">
+		<KeyValueProperty name="Element*Category" type="String" val="标高"/>
+		<KeyValueProperty name="Element*Family" type="String" val="标高"/>
+		<KeyValueProperty name="Element*Type" type="String" val="LH_标高标头_正负零_精装"/>
+		<KeyValueProperty name="Element*名称" type="String" val="F1原顶"/>
+		<KeyValueProperty name="Element*计算高度" type="String" val="0"/>
+		<KeyValueProperty name="Element*结构" type="String" val="否"/>
+		<KeyValueProperty name="Element*建筑楼层" type="String" val="是"/>
+	</MetaData>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>
